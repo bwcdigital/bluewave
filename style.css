@@ -11,6 +11,7 @@
   box-sizing: border-box;
   color: var(--txtClr);
 }
+/* Home page */
 #home {
   background-image: url(images/bg-1.jpg);
   width: 100%;
